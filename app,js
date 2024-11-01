@@ -1,0 +1,42 @@
+
+// //--------------------------------------------------------Assignment No (03)VARIABLES FOR NUMBERS--------------------------------------------------
+
+// //----------------------------------------------------------------------Task No 01----------------------------------------------------------------------
+// //1. Declare a variable called age & assign to it your age. Show
+// // your age in an alert box.
+
+// var age = 18;
+// alert("my age is" + age)
+// //----------------------------------------------------------------------Task No 02----------------------------------------------------------------------
+
+// // //2. Declare & initialize a variable to keep track of how many
+// // times a visitor has visited a web page. Show his/her
+// // number of visits on your web page. For example: “You
+// // have visited this site N times”.
+// //----------------------------------------------------------------------Task No 03----------------------------------------------------------------------
+
+// var visit = 14;
+// alert("you are visit our web "  + visit);
+// //Declare a variable called birthYear & assign to it your
+// // birth year. Show the following message in your browser:
+
+// var birthYear = 2006;
+// document.write("my birth year is" +  birthYear);
+// //----------------------------------------------------------------------Task No 04----------------------------------------------------------------------
+
+// // 4. A visitor visits an online clothing store
+// // www.xyzClothing.com . Write a script to store in variables
+// // the following information:
+// // a. Visitor’s name
+// // b. Product title
+// // c. Quantity i.e. how many products a visitor wants to
+// // order
+// // Show the following message in your browser: “John
+// // Doe ordered 5 T-shirt(s) on XYZ Clothing store”.
+
+// var xyz = "XYZ clothing store";
+// var visitorsName = "JhonDoe";
+// var productTiitle = "T-Shirt";
+// var order = 5;
+// document.write(visitorsName + " "+ productTiitle + " " + order + " " + xyz);
+
